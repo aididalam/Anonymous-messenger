@@ -1,10 +1,10 @@
 # Anonymous-messenger
 Treading Anonymous messenger sarahah concept with image message
 
-<img src="preview/1.png" width="100" >
-<img src="preview/2.png" width="100" >
-<img src="preview/3.png" width="100" >
-<img src="preview/4.png" width="100" >
+<img src="preview/1.png" width="100%" >
+<img src="preview/2.png" width="100%" >
+<img src="preview/3.png" width="100%" >
+<img src="preview/4.png" width="100%" >
 
 # Features:
 - Facebook Login
