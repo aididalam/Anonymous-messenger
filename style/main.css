@@ -1,0 +1,77 @@
+s
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 100px; /* Margin bottom by footer height */
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background: rgb(76,175,80);
+  background: -moz-linear-gradient(45deg, rgb(44, 69, 95) 0%, rgb(44,62,80)10%, rgb(44,62,80) 10%);
+  background: -webkit-linear-gradient(45deg, rgb(44, 69, 95) 0%, rgb(44,62,80)10%, rgb(44,62,80) 10%);
+  background: linear-gradient(45deg, rgb(44, 69, 95) 0%, rgb(44,62,80)10%, rgb(44,62,80) 10%);
+} 
+
+.title {
+    color: #eaf1f8;
+    text-align: center;
+    padding: 20px;
+}
+
+.txt {
+    color: #eaf1f8;
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+.footer {
+  width: 100%;
+  height: 80px; /* Set the fixed height of the footer here */
+  background-color: #272727;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.alert-light{
+  margin-top: 20px;
+  padding: 20px;
+  background-color: floralwhite;
+  border-radius: 8px;
+  box-shadow: 1px 1px 1px 1px #888888;
+}
+
+.btn-file {
+  position: relative;
+  overflow: hidden;
+}
+.image-preview-input {
+  position: relative;
+overflow: hidden;
+margin: 0px;    
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;    
+}
+.image-preview-input input[type=file] {
+position: absolute;
+top: 0;
+right: 0;
+margin: 0;
+padding: 0;
+font-size: 20px;
+cursor: pointer;
+opacity: 0;
+filter: alpha(opacity=0);
+}
+.image-preview-input-title {
+  margin-left:2px;
+}
+
+
