@@ -19,7 +19,7 @@ Treading Anonymous messenger sarahah concept with image message
 # Installation:
 Project is in PHP.There is a file under config called Strings.php. You have to update:
 
--Database Cardinals
--Fb App ID and Secret Id
--Site url
--Site title,description,keywords etc
+- Database Cardinals
+- Fb App ID and Secret Id
+- Site url
+- Site title,description,keywords etc
