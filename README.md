@@ -12,4 +12,4 @@ Treading Anonymous messenger sarahah concept with image message
 
 
 # Installation:
-Project is in PHP.There is a file under config called. You have to update that file.
+Project is in PHP.There is a file under config called Strings.php. You have to update Database,FB App and Site url in that file
